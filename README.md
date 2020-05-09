@@ -1,4 +1,4 @@
-# simple_keras_attention
+# Simple Global Attention
 A simple demonstration of a global attention layer for keras LSTM as a Sentdex' community helper
 
 
